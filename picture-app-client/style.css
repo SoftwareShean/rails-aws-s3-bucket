@@ -22,15 +22,12 @@ label {
   cursor: text;
 }
 
-#name {
-  border-bottom: 2px solid #d3d3d3;
-}
-
 input {
   width: 100%;
   border: 0;
   outline: 0;
   padding: 0.5rem 0;
+  border-bottom: 2px solid #d3d3d3;
   box-shadow: none;
   color: #111;
   margin: 2%;
